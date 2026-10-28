@@ -1,0 +1,30 @@
+{
+  "owner": "Lin",
+  "timezone": "Asia/Shanghai",
+  "quiet_hours": {
+    "start": "22:30",
+    "end": "07:30"
+  },
+  "focus_blocks": [
+    {
+      "days": "mon-fri",
+      "start": "09:00",
+      "end": "11:30"
+    }
+  ],
+  "brief_times": [
+    "08:00",
+    "17:30"
+  ],
+  "knock_budget_per_day": 3,
+  "knocks_sent_today": 0,
+  "knock_threshold": 6,
+  "standing_permissions": [
+    "archive_newsletter",
+    "label_mail"
+  ],
+  "quiet_bypass": [
+    "family",
+    "security"
+  ]
+}
